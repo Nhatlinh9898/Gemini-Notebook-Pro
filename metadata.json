@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Notebook Pro",
+  "description": "A high-performance research and note-taking assistant inspired by NotebookLM, featuring source-grounded AI chat, automated summaries, and multi-speaker audio overviews.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
